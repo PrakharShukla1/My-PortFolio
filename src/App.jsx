@@ -133,7 +133,7 @@ export default function App() {
         <pointLight position={[-10, -10, -10]} intensity={3} color="#00ffcc" />
 
         {/* FIX: Increased pages to 6 to account for the extra height Projects/Services take up */}
-        <ScrollControls pages={6.5} damping={0.1}>
+        <ScrollControls pages={8} damping={0.1}>
           
           {/* Background Starfield */}
           <SurfingStars />
