@@ -130,18 +130,19 @@ export default function Contact() {
 }
 
 const styles = {
-  section: {
-    minHeight: '100vh',
-    width: '100vw',
-    backgroundColor: '#030303',
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
-    padding: '100px 10%',
-    boxSizing: 'border-box',
-    pointerEvents: 'none',
-  },
+section: {
+  minHeight: '100vh',
+  width: '100vw',
+  backgroundColor: '#030303',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  justifyContent: 'center',
+  padding: '100px 10%',
+  paddingBottom: '120px',
+  boxSizing: 'border-box',
+  pointerEvents: 'none',
+},
 
   container: {
     width: '100%',
