@@ -1,3 +1,4 @@
+
 // src/components/Hero.jsx
 
 import React, { useEffect, useRef } from 'react'
@@ -109,4 +110,5 @@ const styles = {
     lineHeight: '1.6',
     fontWeight: '300',
   }
+
 }

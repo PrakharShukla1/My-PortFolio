@@ -1,3 +1,4 @@
+
 // src/components/Projects.jsx
 
 import React, { useRef } from 'react'
@@ -279,4 +280,5 @@ const styles = {
     textAlign: 'center',
     opacity: 0.7,
   }
+
 }
