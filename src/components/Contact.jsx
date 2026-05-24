@@ -137,7 +137,7 @@ section: {
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'center',
-  justifyContent: 'center',
+  justifyContent: 'flex-start',
   padding: '100px 10%',
   paddingBottom: '120px',
   boxSizing: 'border-box',
